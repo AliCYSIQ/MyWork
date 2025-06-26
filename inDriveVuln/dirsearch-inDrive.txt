@@ -1,0 +1,188 @@
+# Dirsearch started Tue Jun 24 14:45:52 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://inDrive.com -e php,xml,txt,bak,html -o dirsearch-inDrive.txt
+
+403   555B   https://inDrive.com/.git
+403   555B   https://inDrive.com/.git-credentials
+403   555B   https://inDrive.com/.git-rewrite/
+403   555B   https://inDrive.com/.git.json
+403   555B   https://inDrive.com/.git/branches/
+403   555B   https://inDrive.com/.git/COMMIT_EDITMSG
+403   555B   https://inDrive.com/.git/config
+403   555B   https://inDrive.com/.git/description
+403   555B   https://inDrive.com/.git/
+403   555B   https://inDrive.com/.git/head
+403   555B   https://inDrive.com/.git/HEAD
+403   555B   https://inDrive.com/.git/hooks/
+403   555B   https://inDrive.com/.git/hooks/post-update
+403   555B   https://inDrive.com/.git/hooks/pre-applypatch
+403   555B   https://inDrive.com/.git/hooks/pre-push
+403   555B   https://inDrive.com/.git/index
+403   555B   https://inDrive.com/.git/hooks/pre-commit
+403   555B   https://inDrive.com/.git/hooks/pre-rebase
+403   555B   https://inDrive.com/.git/hooks/prepare-commit-msg
+403   555B   https://inDrive.com/.git/FETCH_HEAD
+403   555B   https://inDrive.com/.git/info/attributes
+403   555B   https://inDrive.com/.git/info/exclude
+403   555B   https://inDrive.com/.git/hooks/update
+403   555B   https://inDrive.com/.git/info/
+403   555B   https://inDrive.com/.git/hooks/applypatch-msg
+403   555B   https://inDrive.com/.git/hooks/commit-msg
+403   555B   https://inDrive.com/.git/hooks/pre-receive
+403   555B   https://inDrive.com/.git/info/refs
+403   555B   https://inDrive.com/.git/logs/
+403   555B   https://inDrive.com/.git/logs/HEAD
+403   555B   https://inDrive.com/.git/logs/refs
+403   555B   https://inDrive.com/.git/logs/refs/remotes
+403   555B   https://inDrive.com/.git/logs/refs/heads
+403   555B   https://inDrive.com/.git/logs/refs/remotes/origin
+403   555B   https://inDrive.com/.git/logs/refs/remotes/origin/HEAD
+403   555B   https://inDrive.com/.git/objects/info/packs
+403   555B   https://inDrive.com/.git/logs/refs/heads/master
+403   555B   https://inDrive.com/.git/logs/head
+403   555B   https://inDrive.com/.git/objects/
+403   555B   https://inDrive.com/.git/logs/refs/remotes/origin/master
+403   555B   https://inDrive.com/.git/packed-refs
+403   555B   https://inDrive.com/.git/refs/remotes
+403   555B   https://inDrive.com/.git/refs/heads
+403   555B   https://inDrive.com/.git/refs/heads/master
+403   555B   https://inDrive.com/.git/refs/remotes/origin
+403   555B   https://inDrive.com/.git/refs/
+403   555B   https://inDrive.com/.git2/
+403   555B   https://inDrive.com/.git/refs/tags
+403   555B   https://inDrive.com/.git/refs/remotes/origin/HEAD
+403   555B   https://inDrive.com/.git/refs/remotes/origin/master
+403   555B   https://inDrive.com/.git_release
+403   555B   https://inDrive.com/.gitchangelog.rc
+403   555B   https://inDrive.com/.gitconfig
+403   555B   https://inDrive.com/.github/
+403   555B   https://inDrive.com/.github/workflows/blank.yml
+403   555B   https://inDrive.com/.github/workflows/docker.yml
+403   555B   https://inDrive.com/.github/PULL_REQUEST_TEMPLATE.md
+403   555B   https://inDrive.com/.github/workflows/dependabot.yml
+403   555B   https://inDrive.com/.github/ISSUE_TEMPLATE.md
+403   555B   https://inDrive.com/.github/workflows/ci.yml
+403   555B   https://inDrive.com/.github/workflows/nodejs.yml
+403   555B   https://inDrive.com/.github/workflows/master.yml
+403   555B   https://inDrive.com/.github/workflows/publish.yml
+403   555B   https://inDrive.com/.gitignore
+403   555B   https://inDrive.com/.github/workflows/maven.yml
+403   555B   https://inDrive.com/.gitignore.orig
+403   555B   https://inDrive.com/.gitattributes
+403   555B   https://inDrive.com/.gitignore.swp
+403   555B   https://inDrive.com/.gitignore~
+403   555B   https://inDrive.com/.gitignore/
+403   555B   https://inDrive.com/.gitlab
+403   555B   https://inDrive.com/.gitk
+403   555B   https://inDrive.com/.gitlab-ci/.env
+403   555B   https://inDrive.com/.gitkeep
+403   555B   https://inDrive.com/.gitlab-ci.yml
+403   555B   https://inDrive.com/.gitlab-ci.off.yml
+403   555B   https://inDrive.com/.gitignore_global
+403   555B   https://inDrive.com/.gitlab/issue_templates
+403   555B   https://inDrive.com/.gitlab/merge_request_templates
+403   555B   https://inDrive.com/.gitlab/route-map.yml
+403   555B   https://inDrive.com/.gitreview
+403   555B   https://inDrive.com/.gitmodules
+403   555B   https://inDrive.com/.svn
+403   555B   https://inDrive.com/.svn/
+403   555B   https://inDrive.com/.svn/all-wcprops
+403   555B   https://inDrive.com/.svn/entries
+403   555B   https://inDrive.com/.svn/prop
+403   555B   https://inDrive.com/.svn/text
+403   555B   https://inDrive.com/.svn/text-base/
+403   555B   https://inDrive.com/.svn/text-base/index.php.svn-base
+403   555B   https://inDrive.com/.svn/wc.db
+403   555B   https://inDrive.com/.svnignore
+200   303B   https://inDrive.com/.well-known/apple-app-site-association
+200   837B   https://inDrive.com/.well-known/assetlinks.json
+404   555B   https://inDrive.com/app/__pycache__/
+404   555B   https://inDrive.com/app/
+302   145B   https://inDrive.com/app/.htaccess    -> REDIRECTS TO: https://.htaccess.indrive.com
+302   145B   https://inDrive.com/app/bin    -> REDIRECTS TO: https://bin.indrive.com
+302   145B   https://inDrive.com/app/cache/    -> REDIRECTS TO: https://cache.indrive.com/
+302   145B   https://inDrive.com/app/bootstrap.php.cache    -> REDIRECTS TO: https://bootstrap.php.cache.indrive.com
+302   145B   https://inDrive.com/app/composer.json    -> REDIRECTS TO: https://composer.json.indrive.com
+302   145B   https://inDrive.com/app/Config/core.php    -> REDIRECTS TO: https://Config.indrive.com/core.php
+302   145B   https://inDrive.com/app/composer.lock    -> REDIRECTS TO: https://composer.lock.indrive.com
+302   145B   https://inDrive.com/app/config/adminConf.json    -> REDIRECTS TO: https://config.indrive.com/adminConf.json
+302   145B   https://inDrive.com/app/Config/database.php    -> REDIRECTS TO: https://Config.indrive.com/database.php
+302   145B   https://inDrive.com/app/config/database.yml.pgsql    -> REDIRECTS TO: https://config.indrive.com/database.yml.pgsql
+302   145B   https://inDrive.com/app/config/database.yml    -> REDIRECTS TO: https://config.indrive.com/database.yml
+302   145B   https://inDrive.com/app/config/database.yml.sqlite3    -> REDIRECTS TO: https://config.indrive.com/database.yml.sqlite3
+302   145B   https://inDrive.com/app/config/global.json    -> REDIRECTS TO: https://config.indrive.com/global.json
+302   145B   https://inDrive.com/app/config/parameters.ini    -> REDIRECTS TO: https://config.indrive.com/parameters.ini
+302   145B   https://inDrive.com/app/config/databases.yml    -> REDIRECTS TO: https://config.indrive.com/databases.yml
+302   145B   https://inDrive.com/app/config/database.yml~    -> REDIRECTS TO: https://config.indrive.com/database.yml~
+302   145B   https://inDrive.com/app/config/parameters.yml    -> REDIRECTS TO: https://config.indrive.com/parameters.yml
+302   145B   https://inDrive.com/app/config/schema.yml    -> REDIRECTS TO: https://config.indrive.com/schema.yml
+302   145B   https://inDrive.com/app/config/routes.cfg    -> REDIRECTS TO: https://config.indrive.com/routes.cfg
+302   145B   https://inDrive.com/app/docs    -> REDIRECTS TO: https://docs.indrive.com
+302   145B   https://inDrive.com/app/etc/fpc.xml    -> REDIRECTS TO: https://etc.indrive.com/fpc.xml
+302   145B   https://inDrive.com/app/etc/config.xml    -> REDIRECTS TO: https://etc.indrive.com/config.xml
+302   145B   https://inDrive.com/app/etc/local.xml.additional    -> REDIRECTS TO: https://etc.indrive.com/local.xml.additional
+302   145B   https://inDrive.com/app/etc/local.xml.bak    -> REDIRECTS TO: https://etc.indrive.com/local.xml.bak
+302   145B   https://inDrive.com/app/etc/local.xml.phpunit    -> REDIRECTS TO: https://etc.indrive.com/local.xml.phpunit
+302   145B   https://inDrive.com/app/etc/local.xml.live    -> REDIRECTS TO: https://etc.indrive.com/local.xml.live
+302   145B   https://inDrive.com/app/etc/local.xml.template    -> REDIRECTS TO: https://etc.indrive.com/local.xml.template
+302   145B   https://inDrive.com/app/etc/local.xml.localRemote    -> REDIRECTS TO: https://etc.indrive.com/local.xml.localRemote
+302   145B   https://inDrive.com/app/etc/local.xml.vmachine    -> REDIRECTS TO: https://etc.indrive.com/local.xml.vmachine
+302   145B   https://inDrive.com/app/kibana/    -> REDIRECTS TO: https://kibana.indrive.com/
+302   145B   https://inDrive.com/app/etc/local.xml.vmachine.rm    -> REDIRECTS TO: https://etc.indrive.com/local.xml.vmachine.rm
+302   145B   https://inDrive.com/app/log/    -> REDIRECTS TO: https://log.indrive.com/
+302   145B   https://inDrive.com/app/logs/    -> REDIRECTS TO: https://logs.indrive.com/
+302   145B   https://inDrive.com/app/languages    -> REDIRECTS TO: https://languages.indrive.com
+302   145B   https://inDrive.com/app/phpunit.xml    -> REDIRECTS TO: https://phpunit.xml.indrive.com
+302   145B   https://inDrive.com/app/src    -> REDIRECTS TO: https://src.indrive.com
+302   145B   https://inDrive.com/app/storage/    -> REDIRECTS TO: https://storage.indrive.com/
+302   145B   https://inDrive.com/app/sys    -> REDIRECTS TO: https://sys.indrive.com
+302   145B   https://inDrive.com/app/etc/enterprise.xml    -> REDIRECTS TO: https://etc.indrive.com/enterprise.xml
+302   145B   https://inDrive.com/app/etc/local.additional    -> REDIRECTS TO: https://etc.indrive.com/local.additional
+302   145B   https://inDrive.com/app/testing    -> REDIRECTS TO: https://testing.indrive.com
+302   145B   https://inDrive.com/app/dev    -> REDIRECTS TO: https://dev.indrive.com
+302   145B   https://inDrive.com/app/etc/local.xml    -> REDIRECTS TO: https://etc.indrive.com/local.xml
+302   145B   https://inDrive.com/app/tmp/    -> REDIRECTS TO: https://tmp.indrive.com/
+302   145B   https://inDrive.com/app/unschedule.bat    -> REDIRECTS TO: https://unschedule.bat.indrive.com
+302   145B   https://inDrive.com/app/vendor-    -> REDIRECTS TO: https://vendor-.indrive.com
+302   145B   https://inDrive.com/app/vendor-src    -> REDIRECTS TO: https://vendor-src.indrive.com
+302   145B   https://inDrive.com/app/vendor    -> REDIRECTS TO: https://vendor.indrive.com
+308    24B   https://inDrive.com/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /axis2-web/HappyAxis.jsp
+308    19B   https://inDrive.com/axis//happyaxis.jsp    -> REDIRECTS TO: /axis/happyaxis.jsp
+308    30B   https://inDrive.com/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /axis2/axis2-web/HappyAxis.jsp
+200    78KB  https://inDrive.com/blog
+200   104KB  https://inDrive.com/book
+200   119KB  https://inDrive.com/business
+308    52B   https://inDrive.com/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /Citrix/AccessPlatform/auth/clientscripts/cookies.js
+200   146KB  https://inDrive.com/company
+404    19B   https://inDrive.com/content/
+404     9B   https://inDrive.com/content/debug.log
+200    90KB  https://inDrive.com/contacts
+404   555B   https://inDrive.com/dev
+404   555B   https://inDrive.com/dev/
+200   146KB  https://inDrive.com/en
+308    39B   https://inDrive.com/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: /engine/classes/swfupload/swfupload.swf
+308    42B   https://inDrive.com/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: /engine/classes/swfupload/swfupload_f9.swf
+308    27B   https://inDrive.com/extjs/resources//charts.swf    -> REDIRECTS TO: /extjs/resources/charts.swf
+200    15KB  https://inDrive.com/favicon.ico
+308    37B   https://inDrive.com/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: /html/js/misc/swfupload/swfupload.swf
+200    79KB  https://inDrive.com/legal
+301   169B   https://inDrive.com/mobile    -> REDIRECTS TO: http://indrive.com:8080/mobile/
+404     0B   https://inDrive.com/mobile/error
+404   555B   https://inDrive.com/moderator
+404   555B   https://inDrive.com/moderator/admin.php
+404   555B   https://inDrive.com/moderator/admin
+404   555B   https://inDrive.com/moderator/admin.xml
+404   555B   https://inDrive.com/moderator/
+404   555B   https://inDrive.com/moderator/admin.txt
+404   555B   https://inDrive.com/moderator/admin.bak
+404   555B   https://inDrive.com/moderator/admin.html
+404   555B   https://inDrive.com/moderator/login
+404   555B   https://inDrive.com/moderator/login.php
+404   555B   https://inDrive.com/moderator/login.xml
+404   555B   https://inDrive.com/moderator/login.txt
+404   555B   https://inDrive.com/moderator/login.bak
+404   555B   https://inDrive.com/moderator/login.html
+404   555B   https://inDrive.com/partner
+200     2KB  https://inDrive.com/robots.txt
+301   169B   https://inDrive.com/s    -> REDIRECTS TO: http://indrive.com:8080/s/
+404     0B   https://inDrive.com/s/sfsites/aura
+200   220B   https://inDrive.com/security.txt
+200    15KB  https://inDrive.com/sitemap.xml
