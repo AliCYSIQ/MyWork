@@ -1,1 +1,0 @@
-first: i use amass enum to discovery and the result in the file with name amass.txt
