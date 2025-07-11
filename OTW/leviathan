@@ -1,0 +1,10 @@
+level password leviathan0
+level password 3QJ3TgzHDq
+level password NsN1HwFoyN
+level password
+level password
+level password
+level password
+level password
+
+	ssh leviathan0@leviathan.labs.overthewire.org -p 2223
